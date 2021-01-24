@@ -1,0 +1,20 @@
+    #c2 {
+        width: 100%;
+        background-color: #f1f1c1;
+        padding-left: 25px;
+    }
+    
+    .c1 {
+        font-size: 200%;
+        padding-left: 25px;
+    }
+    
+    button {
+        background-color: rgba(125, 166, 243, 0.774);
+        padding: 5px;
+    }
+    
+    .c3 {
+        padding: 5px;
+        padding-left: 25px;
+    }

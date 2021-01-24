@@ -1,0 +1,41 @@
+<!Doctype html>
+<html>
+
+<head>
+    <title>7 Assignment</title>
+</head>
+
+<body>
+    <h1>Chapter # 7 - Forms</h1>
+    <form>
+        <fieldset>
+            <legend>Your Details:</legend>
+            <p> Name:<input type="text" placeholder="Enter Your Name" size="30px" /><br/><br/> Email:
+                <input type="Email" placeholder="Enter Your Email" size="30px" /><br/></p>
+        </fieldset>
+    </form>
+    <form>
+        <fieldset>
+            <legend>Your Review:</legend>
+            <p> How did you hear about us?
+                <select name="engine">
+                 <option value="Google">Google</option>
+                 <option value="Facebook" >Facebook</option>
+                 <option value="Yahoo">Yahoo</option>
+                 <option value="E-Mail Ad">E-Mail Ad</option>
+                 <option value="E-Mail Ad">Other</option>
+            </select><br/><br/> Would you visit again?<br/>
+                <input type="radio" name="visit" value="Yes"><label for="Yes">Yes</label>
+                <input type="radio" name="visit" value="No"><label for="No">No</label>
+                <input type="radio" name="visit" value="Maybe"><label for="Maybe">Maybe</label><br/>
+                <p>Comments:<br/>
+                    <textarea name="comments" rows="4" cols="38">Enter Your Comments </textarea>
+                </p>
+                <input type="checkbox" />Sign me up for email updates<br/>
+                <br><input type="submit" value="Submit Review" />
+            </p>
+        </fieldset>
+    </form>
+</body>
+
+</html>

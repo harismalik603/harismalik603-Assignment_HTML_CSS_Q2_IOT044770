@@ -1,0 +1,92 @@
+.c1 {
+    background-image: url(' 2.jpg ');
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(250, 250, 107);
+}
+
+.hero-text2 {
+    text-align: center;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+
+.our {
+    color: black;
+}
+
+.adv {
+    color: green;
+}
+
+.c2 {
+    background-image: url('5.jpg');
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    height: 140%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text2 {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+
+.hero-text3 {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    width: 100%;
+}
+
+.c3 {
+    background-color: black;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+}
+
+.c6 {
+    align-items: center;
+    text-align: center;
+    background-color: green;
+}
+
+.c7 {
+    background-color: green;
+    padding-right: 20px;
+    width: 100%;
+}
+
+table,
+tr,
+th,
+td {
+    color: white;
+}

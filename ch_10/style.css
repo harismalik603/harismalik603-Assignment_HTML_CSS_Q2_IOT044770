@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #d5e8d6;
+}
+
+.c1 {
+    background-color: #e07934;
+}
+
+.c2 {
+    background-color: #d75df0;
+}
+
+.c3 {
+    background-color: #6461fa;
+}
+
+.c4 {
+    background-color: #f9b1fc;
+}
+
+.c5 {
+    background-color: #fcff3d;
+}
+
+.c6 {
+    background-color: #187329;
+}
+
+.c7 {
+    background-color: #8c5423;
+}
+
+.c8 {
+    background-color: #ff8585;
+}
+
+.c9 {
+    background-color: #d4881e;
+}
+
+.c10 {
+    background-color: #5fb0e3;
+}
+
+.c11 {
+    background-color: #ffffff;
+}
+
+td:hover {
+    font-size: 200%;
+}

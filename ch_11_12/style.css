@@ -1,0 +1,23 @@
+p,
+h1 {
+    font-family: cambria;
+}
+
+.c2 {
+    font-weight: 800;
+    font-family: Times;
+    text-shadow: 2px 2px 8px #312f2fb7;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    font-size: 150%;
+}
+
+.k {
+    text-align: center;
+}
